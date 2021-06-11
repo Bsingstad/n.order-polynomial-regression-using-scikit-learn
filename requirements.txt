@@ -276,7 +276,7 @@ watson-machine-learning-client==1.0.365
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.48.0
-websockets==7.0
+websockets==9.1
 Werkzeug==0.14.1
 wfdb==2.2.1
 wget==3.2
